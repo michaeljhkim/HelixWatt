@@ -1,2 +1,2 @@
 # HelixWatt
-Website designed to accept energy data and forcast future energy consumption rates
+Website that accepts energy consumption data and forcasts future energy consumption rates.
